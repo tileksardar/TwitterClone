@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>982020321040-71uu9h2885m83g42pqi69nh7suu7uo7k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.982020321040-71uu9h2885m83g42pqi69nh7suu7uo7k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrrIgacTAfIg1aWCOMiytsHTf6pyXidns</string>
+	<key>GCM_SENDER_ID</key>
+	<string>982020321040</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tileksardarbekov.TwitterClone</string>
+	<key>PROJECT_ID</key>
+	<string>twittertutorial-37521</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twittertutorial-37521.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:982020321040:ios:7be0f67b46efa30017ff95</string>
+	<key>DATABASE_URL</key>
+	<string>https://twittertutorial-37521-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
